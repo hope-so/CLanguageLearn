@@ -1,0 +1,18 @@
+数据类型:向内存申请空间
+char				字符数据类型
+short				短整型//short int//最低位0,最高位2^16-1//65535
+int					整型//0到2^32-1
+long				长整型,C语言标准规定,sizeof(long) >= sizeof(int)就可以
+long long			更长的整型
+float				单精度浮点数
+double				双精度浮点数
+//C语言没有字符串类型?
+
+1字节,计算机中的单位
+bit		比特位,存放1或者0,只能存放二进制位
+byte	字节,一字节8个bit位/2^8
+kb		1024个字节
+mb		1024个kb
+gb		1024个mb
+tb		1024个gb
+pb		1024个tb
